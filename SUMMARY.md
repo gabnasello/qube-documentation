@@ -17,3 +17,8 @@
 ## TRANSFER DATA
 
 * [Use the FileBrowser container](transfer-data/use-the-filebrowser-container.md)
+
+## NOTES FOR ADMINS
+
+* [Create a New User](notes-for-admins/create-a-new-user.md)
+* [Create a Stack](notes-for-admins/create-a-stack.md)

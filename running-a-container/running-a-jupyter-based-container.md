@@ -10,23 +10,19 @@ You start a container by clicking **Start this stack**
 
 <figure><img src="../.gitbook/assets/bitmap (2).png" alt=""><figcaption></figcaption></figure>
 
-## Get the Jupyter token
+## Open the container link
 
-Before you open the container, **copy the Jupyter token** from the `container logs` that you access from **Quick Actions**
+**Open the container** created after starting the stack
 
-<figure><img src="../.gitbook/assets/bitmap (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+Scroll down to the **Container details**, you will the `CONTAINER_URL` detail. Copy and paste the link in a new page
 
-## Open the published port
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Once the token is copied, you can go back to the main page of the stack you started and open the published port dedicated to your container
+And the container is ready-to-go!
 
-<figure><img src="../.gitbook/assets/bitmap (4).png" alt=""><figcaption></figcaption></figure>
-
-You will be redirected to a Jupuyter Notebook interface where you will have to past your token
-
-<figure><img src="../.gitbook/assets/bitmap (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## Access your data
 

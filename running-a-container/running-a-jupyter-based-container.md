@@ -16,7 +16,7 @@ You start a container by clicking **Start this stack**
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Scroll down to the **Container details**, you will the `CONTAINER_URL` detail. Copy and paste the link in a new page
+Scroll down to the **Container details**, copy the `CONTAINER_URL` and paste the link in a new page
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 

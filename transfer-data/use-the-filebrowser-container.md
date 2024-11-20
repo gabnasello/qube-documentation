@@ -8,7 +8,7 @@ Follow the steps in [running-a-container-with-gui.md](../running-a-container/run
 
 Your home directory will be empty the first time you access it
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can drag and drop your local files to your home directory
 

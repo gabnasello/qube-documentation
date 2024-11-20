@@ -10,11 +10,29 @@ You start a container by clicking **Start this stack**
 
 <figure><img src="../.gitbook/assets/bitmap (8).png" alt=""><figcaption></figcaption></figure>
 
-## Open the published port
+## Open the container link
 
-Open the published port dedicated to your container to start using it
+**Open the container** created after starting the stack
 
-<figure><img src="../.gitbook/assets/bitmap (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Scroll down to the **Container details**, you will need the following details:
+
+* `CONTAINER_URL` - copy and paste the link in a new page
+* `CUSTOM_USER` - username to login in the new page
+* `PASSWORD` - password to login in the new page
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+After you open the `CONTAINER_URL` in a new page, login with the credentials above
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+And the container is ready-to-go!
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Access your data
 

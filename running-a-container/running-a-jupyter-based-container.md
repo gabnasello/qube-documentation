@@ -16,7 +16,7 @@ Before you open the container, **copy the Jupyter token** from the `container lo
 
 <figure><img src="../.gitbook/assets/bitmap (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Open the published port
 

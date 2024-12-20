@@ -14,7 +14,7 @@ You start a container by clicking **Start this stack**
 
 **Open the container** created after starting the stack
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Scroll down to the **Container details**, you will need the following details:
 
@@ -22,7 +22,7 @@ Scroll down to the **Container details**, you will need the following details:
 * `CUSTOM_USER` - username to login in the new page
 * `PASSWORD` - password to login in the new page
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After you open the `CONTAINER_URL` in a new page, login with the credentials above
 
